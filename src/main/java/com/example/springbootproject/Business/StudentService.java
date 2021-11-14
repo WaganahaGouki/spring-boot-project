@@ -1,5 +1,7 @@
-package com.example.springbootproject.student;
+package com.example.springbootproject.Business;
 
+import com.example.springbootproject.Data.Repositories.StudentRepository;
+import com.example.springbootproject.Data.Models.Student;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

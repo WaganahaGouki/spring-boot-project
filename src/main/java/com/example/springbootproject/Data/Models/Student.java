@@ -1,4 +1,4 @@
-package com.example.springbootproject.student;
+package com.example.springbootproject.Data.Models;
 
 import lombok.*;
 

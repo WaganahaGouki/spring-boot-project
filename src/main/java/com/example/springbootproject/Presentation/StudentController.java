@@ -1,5 +1,7 @@
-package com.example.springbootproject.student;
+package com.example.springbootproject.Presentation;
 
+import com.example.springbootproject.Data.Models.Student;
+import com.example.springbootproject.Business.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
